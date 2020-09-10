@@ -308,7 +308,7 @@ module.exports = {
     'jsx-a11y/scope': 'warn',
 
     // https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks
-    'react-hooks/rules-of-hooks': 'error',
+    'react-hooks/rules-of-hooks': "off",
 
     // https://github.com/gajus/eslint-plugin-flowtype
     'flowtype/define-flow-type': 'warn',
